@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi, I'm Priyam👋
+#  About Me:
 I’m a final-year B.Tech student specializing in Electronics & Communication Engineering, with a strong focus on AI/ML, LLM applications, and Agentic AI. I enjoy building practical AI systems, including RAG applications, MCP-based tools, and backend services. Currently, I’m working with Python, FastAPI, LangChain, FastMCP, Docker, and PostgreSQL, while continuously improving my problem-solving and software engineering skills.
 
 
