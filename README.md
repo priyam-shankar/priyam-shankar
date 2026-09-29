@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Priyam 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer • LLM & Agentic AI • Backend Development</b>
+  <b>Learning AI/ML • Exploring LLMs & Agentic AI • Building Backend Systems</b>
 </p>
 
 #  About Me:
