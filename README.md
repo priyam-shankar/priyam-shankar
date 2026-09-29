@@ -1,4 +1,8 @@
-<h1 align="center" style="font-size: 100px;">Hi, I'm Priyam 👋</h1>
+<h1 align="center">Hi, I'm Priyam 👋</h1>
+
+<p align="center">
+  <b>AI/ML Engineer • LLM & Agentic AI • Backend Development</b>
+</p>
 
 #  About Me:
 I’m a final-year B.Tech student specializing in Electronics & Communication Engineering, with a strong focus on AI/ML, LLM applications, and Agentic AI. I enjoy building practical AI systems, including RAG applications, MCP-based tools, and backend services. Currently, I’m working with Python, FastAPI, LangChain, FastMCP, Docker, and PostgreSQL, while continuously improving my problem-solving and software engineering skills.
